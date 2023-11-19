@@ -1,0 +1,139 @@
+{
+   "children": [
+      {
+         "name": "commodities",
+         "children": [
+            {
+               "name": "produto_Minerio de ferro",
+               "value": 8.26
+            },
+            {
+               "name": "produto_Petroleo",
+               "value": 5.79
+            },
+            {
+               "name": "produto_Café",
+               "value": 5.44
+            },
+            {
+               "name": "produto_Soja",
+               "value": 24.57
+            }
+         ],
+         "colname": "level1"
+      },
+      {
+         "name": "eletronicos",
+         "children": [
+            {
+               "name": "produto_Telas",
+               "value": 4.44
+            },
+            {
+               "name": "produto_Cabos",
+               "value": 3.45
+            },
+            {
+               "name": "produto_Radios",
+               "value": 4.75
+            },
+            {
+               "name": "produto_Geladeiras",
+               "value": 5.17
+            }
+         ],
+         "colname": "level2"
+      },
+      {
+         "name": "alimentos",
+         "children": [
+            {
+               "name": "produto_Arroz",
+               "value": 3.07
+            },
+            {
+               "name": "produto_Laranja",
+               "value": 4.10
+            },
+            {
+               "name": "produto_Frango",
+               "value": 4.10
+            },
+            {
+               "name": "produto_Suino",
+               "value": 8.21
+            },
+            {
+               "name": "produto_Farinha",
+               "value": 5.13
+            },
+            {
+               "name": "produto_Água",
+               "value": 11.32
+            }
+         ],
+         "colname": "level3"
+      },
+      {
+         "name": "texteis",
+         "children": [
+            {
+               "name": "produto_Roupas",
+               "value": 3.07
+            },
+            {
+               "name": "produto_Linhas",
+               "value": 4.10
+            },
+            {
+               "name": "produto_Agulhas",
+               "value": 4.10
+            },
+            {
+               "name": "produto_Lã",
+               "value": 8.21
+            },
+            {
+               "name": "produto_Algodão",
+               "value": 5.13
+            },
+            {
+               "name": "produto_Poliester",
+               "value": 11.32
+            }
+         ],
+         "colname": "level4"
+      },
+      {
+         "name": "veiculos",
+         "children": [
+            {
+               "name": "produto_Rodas",
+               "value": 3.07
+            },
+            {
+               "name": "produto_Gasolina",
+               "value": 4.10
+            },
+            {
+               "name": "produto_Alcool",
+               "value": 4.10
+            },
+            {
+               "name": "produto_Graxa",
+               "value": 8.21
+            },
+            {
+               "name": "produto_Rolamentos",
+               "value": 5.13
+            },
+            {
+               "name": "produto_Escapamento",
+               "value": 11.32
+            }
+         ],
+         "colname": "level5"
+      }
+   ],
+   "name": "Exportações Brasil"
+}
